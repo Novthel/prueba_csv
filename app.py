@@ -62,6 +62,6 @@ class ArchivoCSV():
 if __name__ == '__main__':
 
     a = ArchivoCSV()
-    
-    lectura = a.cargar()
+
+    a.cargar()
 
